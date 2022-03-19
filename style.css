@@ -1,0 +1,51 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    background: rgb(65, 40, 52);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.advice-eye {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: lightblue;
+    text-align: center;
+    padding: 0.5em;
+    position: relative;
+    border: white 2px solid;
+    margin-bottom: 20px;
+}
+
+p {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   font-weight: 700;
+   transform: translate(-50%, -50%);
+   font-size: 25px;
+}
+
+button { 
+    border: none;
+    padding: 0.5em 1em;
+    margin: 1em;
+    border-radius: 5px;
+    border: white 2px solid;
+    
+}
+
+
+button:hover {
+    cursor: pointer;
+    background: black;
+    color: #fff;
+}
