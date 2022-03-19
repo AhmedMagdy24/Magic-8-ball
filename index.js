@@ -12,7 +12,8 @@ const advice = [
     "Until you start believing in yourself, you ain't gonna have a life!",
     "Life does not stop and start at your convenience.",
     "You know what the trouble about real life is? There's no danger music.",
-    "It is better to be alone than in bad company."
+    "It is better to be alone than in bad company.",
+    "don't count the days make the days count"
 ]
 
 const badAdvice = [
