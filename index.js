@@ -13,7 +13,8 @@ const advice = [
     "Life does not stop and start at your convenience.",
     "You know what the trouble about real life is? There's no danger music.",
     "It is better to be alone than in bad company.",
-    "don't count the days make the days count"
+    "don't count the days make the days count",
+    "Surround yourself only with people who are going to lift you higher"
 ]
 
 const badAdvice = [
